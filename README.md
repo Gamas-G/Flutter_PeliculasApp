@@ -3,6 +3,8 @@ Aplicación de peliculas realizada con Flutter, las peliculas son obtenidas de l
 Uso de Hero, ListView, ListView.builfder y otros widget interesantes.
 Deje comentado muchos puntos de interes.
 
+IMPORTANTE: debe de tener una cuenta en la pagina 'The Movie Database(TMDb)' para obtener su apikey. y el uso de json de la api esta deshabilitada obtenga las peticiones de otra forma, yo use POSTMAN para visualizar la peticion.
+
 Vista General
 
 ![ScreenShot](https://raw.github.com/Gamas-G/Flutter_PeliculasApp/master/Screens/Screen1.png)
