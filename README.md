@@ -4,6 +4,7 @@ Uso de Hero, ListView, ListView.builfder y otros widget interesantes.
 Deje comentado muchos puntos de interes.
 
 Vista General
+
 ![ScreenShot](https://raw.github.com/Gamas-G/Flutter_PeliculasApp/master/Screens/Screen1.png)
 
 Vista de Search
